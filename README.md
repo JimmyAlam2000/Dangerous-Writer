@@ -17,11 +17,6 @@ If you stop typing for **more than 5 seconds**, your entire progress will be **w
 
 ---
 
-## 🖥️ Screenshots
-
-![Screenshot](./screenshot.png)  
-*(Optional: Replace with actual screenshot)*
-
 ---
 
 ## 🚀 How to Run
